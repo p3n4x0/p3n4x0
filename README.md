@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ismael-penacho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael penacho" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/users/512648" target="blank"><img align="center" src="https://www.svgrepo.com/svg/331423/hack-the-box" alt="ismael penacho" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
