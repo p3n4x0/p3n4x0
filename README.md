@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Ismael</h1>
 <h3 align="center">Ingeniero informático apasionado del mundillo ciber 👾👨‍💻</h3>
 
-- 📝 Mira mi blog! [https://p3n4x0.github.io](p3n4x0.github.io)
+- 📝 Mira mi blog! [p3n4x0.github.io](https://p3n4x0.github.io)
 
 - 📫 Contactame **p3n4x0@protonmail.com**
 
