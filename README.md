@@ -5,7 +5,6 @@
 
 - 📫 Contactame **p3n4x0@protonmail.com**
 
-- 📄 [https://www.linkedin.com/in/ismael-penacho/](https://www.linkedin.com/in/ismael-penacho/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
