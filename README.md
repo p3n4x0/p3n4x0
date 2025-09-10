@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, Soy Ismael</h1>
-<h3 align="center">Ingeniero informático apasionado del mundillo ciber 👾👨‍💻</h3>
+<h1 align="center">Hi 👋, I'm Ismael</h1>
+<h3 align="center">Computer Engineer specialized in cybersecurity, with a strong focus on cloud security and ethical hacking 👾👨‍💻</h3>
 
-- 📝 Mira mi portfolio! [p3n4x0.github.io](https://p3n4x0.github.io)
+- 📝 [p3n4x0.github.io](https://p3n4x0.github.io)
 
-- 📫 Contactame **p3n4x0@protonmail.com**
+- 📫 **p3n4x0@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
