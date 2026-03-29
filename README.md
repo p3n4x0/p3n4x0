@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismael</h1>
-<h3 align="center">Computer Engineer specialized in cybersecurity, with a strong focus on cloud security and ethical hacking 👾👨‍💻</h3>
+<h3 align="center">Software Engineer specialized in cybersecurity, with a strong focus on cloud security and ethical hacking 👾👨‍💻</h3>
 
 - 📝 [p3n4x0.github.io](https://p3n4x0.github.io)
 
